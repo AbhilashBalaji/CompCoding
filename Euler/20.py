@@ -18,3 +18,4 @@ for i in num_str:
     print(i)
 #print()
 print(sum)
+
